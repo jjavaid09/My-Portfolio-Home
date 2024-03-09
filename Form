@@ -1,11 +1,23 @@
+
+<! DOCTYPE html>
+<htmI lang=" en" >
+<meta charset="UTF-8" >
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+<meta name="viewport" content="width=device-width, initial - scale=1.0">
+<title>Inquiry Form </title>
+</head>
+<body>
 <form action="">
 <fieldset>
 <legend> Contact details </legend> I
-<label> Email: <br/>
-<input type="text" name="email"/></label> <br/>
-<label> Mobile: <br/>
-<input type="text" name="mobile" /></label> <br/>
-<label> Telephone: <br/>
+<label> Email: <br />
+<input type="text" name=" email " /></label> <br />
+<label>Mobile: <br />
+<input type="text" name="mobile" /></label> <br />
+<label>Telephone: <br />
 <input type="text" name="telephone" /></label>
 </fieldset>
 </form>
+</body>
+</html>
